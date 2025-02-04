@@ -1,0 +1,49 @@
+---
+title: "Research Portfolio"
+subtitle: "Genetics, Cognition, and Neurodevelopmental Disorders"
+author: "Your Name, PhD"
+institute: "USC Keck School of Medicine"
+date: today
+format: revealjs
+---
+
+## Research Focus Areas
+
+:::: {.columns}
+::: {.column width="50%"}
+**Core Research Domains**
+
+- Working Memory Genetics
+- Adult ADHD Diagnosis & Treatment
+- Psychiatric Genetics
+- Cognitive Genomics
+:::
+
+::: {.column width="50%"}
+**Methodological Expertise**
+
+- Genome-wide Association Studies
+- Systematic Reviews
+- Clinical Guidelines Development
+- Neuropsychological Assessment
+:::
+::::
+
+## Professional Role
+
+::: {.incremental}
+- Assistant Professor of Psychiatry
+- USC Keck School of Medicine
+- Licensed Clinical Pediatric Neuropsychologist
+- 20+ Years in Clinical Practice & Research
+:::
+
+## Research Impact
+
+Our work aims to:
+
+1. Understand genetic bases of cognitive function
+2. Improve diagnosis and treatment of neurodevelopmental disorders
+3. Translate genetic findings into clinical practice
+4. Develop evidence-based treatment guidelines
+

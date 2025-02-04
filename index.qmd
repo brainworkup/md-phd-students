@@ -1,6 +1,6 @@
 ---
-title: "Presentation to MD/PhD Students"
-subtitle: "Research Program in Psychiatry"
+title: "Research Portfolio"
+subtitle: "Genetics, Cognition, and Neurodevelopmental Disorders"
 author:
   - name: Joey W. Trampush, Ph.D.
     orcid: 0000-0003-0830-508X
@@ -44,6 +44,31 @@ execute:
     freeze: auto
 ---
 
+## Research Focus Areas
+
+:::: {.columns}
+::: {.column width="50%"}
+**Core Research Domains**
+
+- Working Memory Genetics
+- Adult ADHD Diagnosis & Treatment
+- Psychiatric Genetics
+- Cognitive Genomics
+- Neurodevelopment
+:::
+
+::: {.column width="50%"}
+**Methodological Expertise**
+
+- Genome-wide Association Studies (GWAS)
+- Systematic Reviews
+- Clinical Guidelines Development
+- Neuropsychological Assessment
+- Data Science (Reproducible Research)
+- Language Learning Models (LLM)
+:::
+::::
+
 ## RDoC Cognitive Systems GWAS (R03 MH123787)
 
 :::: {.columns}
@@ -61,7 +86,7 @@ execute:
 :::
 ::::
 
-## Working Memory as RDoC Construct {background-color="#40666e"}
+<!-- ## Working Memory as RDoC Construct {background-color="#40666e"}
 
 ::: {.incremental}
 - Core RDoC Cognitive Systems Domain
@@ -77,10 +102,10 @@ execute:
 2. Novel analytical methods
 3. Focus on causality
 4. Pathway to treatments
-5. Transdiagnostic implications
+5. Transdiagnostic implications -->
 
 ## Early Development & Brain Function (R01 DK110793)
-
+### Collaboration with CHLA
 :::: {.columns}
 ::: {.column width="60%"}
 **Research Focus:**
@@ -100,7 +125,7 @@ execute:
 ::::
 
 ## AHRQ ADHD Review Project (75Q80120D00009)
-
+### Co-funded by the FDA
 ::: {.incremental}
 - Update to 2018 AHRQ review
 - Focus on diagnosis and treatment
