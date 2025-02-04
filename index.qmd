@@ -89,23 +89,15 @@ execute:
 :::
 ::::
 
-<!-- ## Working Memory as RDoC Construct {background-color="#40666e"}
+## AHRQ Adult ADHD Review Project (75Q80120D00009)
+### Co-funded by the FDA
 
-::: {.incremental}
-- Core RDoC Cognitive Systems Domain
-- Active maintenance of goal-relevant info
-- Resists interference
-- Limited capacity system
-- Highly heritable trait
-:::
+- Focus on diagnosis and treatment
+- Evidence-based guidelines
+- Treatment recommendations
+- Child & adolescent ADHD project completed last year
 
-## Project Innovation
 
-1. Large-scale dataset (COGENT)
-2. Novel analytical methods
-3. Focus on causality
-4. Pathway to treatments
-5. Transdiagnostic implications -->
 
 ## Early Development & Brain Function (R01 DK110793)
 ### Collaboration with CHLA
@@ -118,22 +110,7 @@ execute:
 - Effects on obesity development
 - Brain development trajectories
 :::
-
-::: {.column width="40%"}
-- Longitudinal design
-- Multi-modal assessment
-- Developmental outcomes
-- Clinical implications
-:::
 ::::
-
-## AHRQ Adult ADHD Review Project (75Q80120D00009)
-### Co-funded by the FDA
-
-- Focus on diagnosis and treatment
-- Evidence-based guidelines
-- Treatment recommendations
-- Child & adolescent ADHD project completed last year
 
 ## CAR-T Cell Therapy & Neurotoxicity
 ### R01 Collaboration with CHLA
