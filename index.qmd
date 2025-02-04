@@ -44,34 +44,98 @@ execute:
     freeze: auto
 ---
 
-## Overview
+## RDoC Cognitive Systems GWAS (R03 MH123787)
 
-# Current Research
+:::: {.columns}
+::: {.column width="60%"}
+**Project Goals:**
 
-## GWAS of Working Memory
+- Investigate latent molecular genetic architecture of working memory
+- Use existing COGENT consortium data
+- Identify genome-wide allelic variation
+- Focus on causal, not just correlational relationships
+:::
 
-### Some extra things you can do with the clean theme
+::: {.column width="40%"}
+![](wm-plot-1.png)
+:::
+::::
 
-Special classes for emphasis
+## Working Memory as RDoC Construct {background-color="#40666e"}
 
-- `.alert` class for default emphasis, e.g. [important note]{.alert}.
-- `.fg` class for custom colour, e.g. [important note]{.fg style="--col: #e64173"}.
-- `.bg` class for custom background, e.g. [important note]{.bg style="--col: #e64173"}.
+::: {.incremental}
+- Core RDoC Cognitive Systems Domain
+- Active maintenance of goal-relevant info
+- Resists interference
+- Limited capacity system
+- Highly heritable trait
+:::
 
-Cross-references
+## Project Innovation
 
-- `.button` class provides a Beamer-like button, e.g.
-[[Summary]{.button}](#sec-summary)
+1. Large-scale dataset (COGENT)
+2. Novel analytical methods
+3. Focus on causality
+4. Pathway to treatments
+5. Transdiagnostic implications
 
-## Neurosurgery/SEEG Collaborations
+## Early Development & Brain Function (R01 DK110793)
 
-### See our longer demo slides
+:::: {.columns}
+::: {.column width="60%"}
+**Research Focus:**
 
-# Future Research
+- Impact of early feeding practices
+- Human milk oligosaccharides (HMOs)
+- Effects on obesity development
+- Brain development trajectories
+:::
 
-## Worldwide Biobank Data
+::: {.column width="40%"}
+- Longitudinal design
+- Multi-modal assessment
+- Developmental outcomes
+- Clinical implications
+:::
+::::
 
-## Other Public Datasets
+## AHRQ ADHD Review Project (75Q80120D00009)
 
-- ABCD study
-- 
+::: {.incremental}
+- Update to 2018 AHRQ review
+- Focus on diagnosis and treatment
+- Children and adolescents
+- Evidence-based guidelines
+- Treatment recommendations
+:::
+
+## Integration & Clinical Impact {background-color="#40666e"}
+
+How these projects work together:
+
+1. Genetic architecture → Treatment targets
+2. Early development → Prevention strategies
+3. Clinical guidelines → Evidence-based care
+4. Translational potential → Improved outcomes
+
+## Future Directions
+
+:::: {.columns}
+::: {.column width="50%"}
+**Research Goals:**
+
+- Expand genetic findings
+- Identify biomarkers
+- Develop interventions
+- Improve diagnostics
+:::
+
+::: {.column width="50%"}
+**Clinical Applications:**
+
+- Personalized medicine
+- Early intervention
+- Treatment optimization
+- Outcome prediction
+:::
+::::

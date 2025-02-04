@@ -1,37 +1,51 @@
 [
   {
-    "objectID": "index.html#overview",
-    "href": "index.html#overview",
+    "objectID": "index.html#rdoc-cognitive-systems-gwas-r03-mh123787",
+    "href": "index.html#rdoc-cognitive-systems-gwas-r03-mh123787",
     "title": "Presentation to MD/PhD Students",
-    "section": "Overview",
-    "text": "Overview"
+    "section": "RDoC Cognitive Systems GWAS (R03 MH123787)",
+    "text": "RDoC Cognitive Systems GWAS (R03 MH123787)\n\n\nProject Goals:\n\nInvestigate latent molecular genetic architecture of working memory\nUse existing COGENT consortium data\nIdentify genome-wide allelic variation\nFocus on causal, not just correlational relationships"
   },
   {
-    "objectID": "index.html#gwas-of-working-memory",
-    "href": "index.html#gwas-of-working-memory",
+    "objectID": "index.html#working-memory-as-rdoc-construct",
+    "href": "index.html#working-memory-as-rdoc-construct",
     "title": "Presentation to MD/PhD Students",
-    "section": "GWAS of Working Memory",
-    "text": "GWAS of Working Memory\nSome extra things you can do with the clean theme\nSpecial classes for emphasis\n\n.alert class for default emphasis, e.g. important note.\n.fg class for custom colour, e.g. important note.\n.bg class for custom background, e.g. important note.\n\nCross-references\n\n.button class provides a Beamer-like button, e.g. Summary"
+    "section": "Working Memory as RDoC Construct",
+    "text": "Working Memory as RDoC Construct\n\n\nCore RDoC Cognitive Systems Domain\nActive maintenance of goal-relevant info\nResists interference\nLimited capacity system\nHighly heritable trait"
   },
   {
-    "objectID": "index.html#neurosurgeryseeg-collaborations",
-    "href": "index.html#neurosurgeryseeg-collaborations",
+    "objectID": "index.html#project-innovation",
+    "href": "index.html#project-innovation",
     "title": "Presentation to MD/PhD Students",
-    "section": "Neurosurgery/SEEG Collaborations",
-    "text": "Neurosurgery/SEEG Collaborations\nSee our longer demo slides"
+    "section": "Project Innovation",
+    "text": "Project Innovation\n\nLarge-scale dataset (COGENT)\nNovel analytical methods\nFocus on causality\nPathway to treatments\nTransdiagnostic implications"
   },
   {
-    "objectID": "index.html#worldwide-biobank-data",
-    "href": "index.html#worldwide-biobank-data",
+    "objectID": "index.html#early-development-brain-function-r01-dk110793",
+    "href": "index.html#early-development-brain-function-r01-dk110793",
     "title": "Presentation to MD/PhD Students",
-    "section": "Worldwide Biobank Data",
-    "text": "Worldwide Biobank Data"
+    "section": "Early Development & Brain Function (R01 DK110793)",
+    "text": "Early Development & Brain Function (R01 DK110793)\n\n\nResearch Focus:\n\nImpact of early feeding practices\nHuman milk oligosaccharides (HMOs)\nEffects on obesity development\nBrain development trajectories\n\n\n\nLongitudinal design\nMulti-modal assessment\nDevelopmental outcomes\nClinical implications"
   },
   {
-    "objectID": "index.html#other-public-datasets",
-    "href": "index.html#other-public-datasets",
+    "objectID": "index.html#ahrq-adhd-review-project-75q80120d00009",
+    "href": "index.html#ahrq-adhd-review-project-75q80120d00009",
     "title": "Presentation to MD/PhD Students",
-    "section": "Other Public Datasets",
-    "text": "Other Public Datasets\n\nABCD study"
+    "section": "AHRQ ADHD Review Project (75Q80120D00009)",
+    "text": "AHRQ ADHD Review Project (75Q80120D00009)\n\n\nUpdate to 2018 AHRQ review\nFocus on diagnosis and treatment\nChildren and adolescents\nEvidence-based guidelines\nTreatment recommendations"
+  },
+  {
+    "objectID": "index.html#integration-clinical-impact",
+    "href": "index.html#integration-clinical-impact",
+    "title": "Presentation to MD/PhD Students",
+    "section": "Integration & Clinical Impact",
+    "text": "Integration & Clinical Impact\nHow these projects work together:\n\nGenetic architecture → Treatment targets\nEarly development → Prevention strategies\nClinical guidelines → Evidence-based care\nTranslational potential → Improved outcomes"
+  },
+  {
+    "objectID": "index.html#future-directions",
+    "href": "index.html#future-directions",
+    "title": "Presentation to MD/PhD Students",
+    "section": "Future Directions",
+    "text": "Future Directions\n\n\nResearch Goals:\n\nExpand genetic findings\nIdentify biomarkers\nDevelop interventions\nImprove diagnostics\n\n\nClinical Applications:\n\nPersonalized medicine\nEarly intervention\nTreatment optimization\nOutcome prediction"
   }
 ]

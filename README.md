@@ -29,14 +29,14 @@ If you'd like to contribute to this project:
 3. Make your changes
 4. Submit a pull request
 
-Please see our [contributing guidelines](.github/pull_request_template.md) for more details.
+Please see our [contributing guidelines](./github/pull_request_template.md) for more details.
 
 ## Issues
 
 If you encounter any problems or have suggestions:
 
-- [Report a bug](.github/ISSUE_TEMPLATE/bug_report.md)
-- [Request a feature](.github/ISSUE_TEMPLATE/feature_request.md)
+- [Report a bug](./github/ISSUE_TEMPLATE/bug_report.md)
+- [Request a feature](./github/ISSUE_TEMPLATE/feature_request.md)
 
 ## License
 
