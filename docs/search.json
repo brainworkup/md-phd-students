@@ -4,7 +4,7 @@
     "href": "index.html#research-focus-areas",
     "title": "Research Portfolio",
     "section": "Research Focus Areas",
-    "text": "Research Focus Areas\n\n\nCore Research Domains\n\nWorking Memory Genetics\nAdult ADHD Diagnosis & Treatment\nPsychiatric Genetics\nCognitive Genomics\nNeurodevelopment\n\n\nMethodological Expertise\n\nGenome-wide Association Studies (GWAS)\nSystematic Reviews\nClinical Guidelines Development\nNeuropsychological Assessment\nData Science (Reproducible Research)\nLanguage Learning Models (LLM)"
+    "text": "Research Focus Areas\n\n\nCore Research Domains\n\nNeuropsychology\nChild, Adolescent, and Adult ADHD Diagnosis & Treatment\nPsychiatric Genetics\nCognitive Genomics\nNeurodevelopment\n\n\nMethodological Expertise\n\nGenome-wide Association Studies (GWAS)\nSystematic Reviews\nClinical Guidelines Development\nNeuropsychological Assessment\nData Science\nLanguage Learning Models (LLMs)"
   },
   {
     "objectID": "index.html#rdoc-cognitive-systems-gwas-r03-mh123787",
@@ -21,11 +21,46 @@
     "text": "Early Development & Brain Function (R01 DK110793)\nCollaboration with CHLA\n\n\nResearch Focus:\n\nImpact of early feeding practices\nHuman milk oligosaccharides (HMOs)\nEffects on obesity development\nBrain development trajectories\n\n\n\nLongitudinal design\nMulti-modal assessment\nDevelopmental outcomes\nClinical implications"
   },
   {
-    "objectID": "index.html#ahrq-adhd-review-project-75q80120d00009",
-    "href": "index.html#ahrq-adhd-review-project-75q80120d00009",
+    "objectID": "index.html#ahrq-adult-adhd-review-project-75q80120d00009",
+    "href": "index.html#ahrq-adult-adhd-review-project-75q80120d00009",
     "title": "Research Portfolio",
-    "section": "AHRQ ADHD Review Project (75Q80120D00009)",
-    "text": "AHRQ ADHD Review Project (75Q80120D00009)\nCo-funded by the FDA\n\n\nUpdate to 2018 AHRQ review\nFocus on diagnosis and treatment\nChildren and adolescents\nEvidence-based guidelines\nTreatment recommendations"
+    "section": "AHRQ Adult ADHD Review Project (75Q80120D00009)",
+    "text": "AHRQ Adult ADHD Review Project (75Q80120D00009)\nCo-funded by the FDA\n\nFocus on diagnosis and treatment\nEvidence-based guidelines\nTreatment recommendations\nChild & adolescent ADHD project completed last year"
+  },
+  {
+    "objectID": "index.html#car-t-cell-therapy-neurotoxicity",
+    "href": "index.html#car-t-cell-therapy-neurotoxicity",
+    "title": "Research Portfolio",
+    "section": "CAR-T Cell Therapy & Neurotoxicity",
+    "text": "CAR-T Cell Therapy & Neurotoxicity\nR01 Collaboration with CHLA\nProject Overview\n\n\nICANS Research Study:\n\nInvestigating neurotoxicity in CAR-T therapy\n80 pediatric ALL patients (5-21 years)\nLongitudinal assessment design\nMulti-modal brain & immune measures"
+  },
+  {
+    "objectID": "index.html#hippocampal-stimulation-memory",
+    "href": "index.html#hippocampal-stimulation-memory",
+    "title": "Research Portfolio",
+    "section": "Hippocampal Stimulation & Memory",
+    "text": "Hippocampal Stimulation & Memory\nPredicting Surgical Outcomes\n\nPI: Brian Lee, MD, PhD\n\nStudy Overview\nThree key questions:\n\nWHERE to stimulate in hippocampus?\nWHEN during memory tasks?\nHOW (stimulation parameters)?"
+  },
+  {
+    "objectID": "index.html#data-science",
+    "href": "index.html#data-science",
+    "title": "Research Portfolio",
+    "section": "Data Science",
+    "text": "Data Science\n\nR\nQuarto, Typst\nReproducible Research\n\nGitHub Repos\n\nhttps://github.com/brainworkup/neurotyp-adult\nhttps://github.com/brainworkup/neurotyp-pediatric\nhttps://github.com/brainworkup/neurotyp-forensic\nhttps://github.com/brainworkup/bwu"
+  },
+  {
+    "objectID": "index.html#large-scale-biobank-data",
+    "href": "index.html#large-scale-biobank-data",
+    "title": "Research Portfolio",
+    "section": "Large-Scale Biobank Data",
+    "text": "Large-Scale Biobank Data\n\nUK Biobank\nABCD Study\n23andMe\nMany others"
+  },
+  {
+    "objectID": "index.html#language-learning-models-llm",
+    "href": "index.html#language-learning-models-llm",
+    "title": "Research Portfolio",
+    "section": "Language Learning Models (LLM)",
+    "text": "Language Learning Models (LLM)\nApplication to Neuropsychological Evaluation\nDeveloping LLM to process neurocognitive and behavioral data from evaluations that otherwise take several hours.\n\nSummarization using Chain of Density"
   },
   {
     "objectID": "index.html#integration-clinical-impact",

@@ -44,14 +44,16 @@ execute:
     freeze: auto
 ---
 
+# Hello ...
+
 ## Research Focus Areas
 
 :::: {.columns}
 ::: {.column width="50%"}
 **Core Research Domains**
 
-- Working Memory Genetics
-- Adult ADHD Diagnosis & Treatment
+- Neuropsychology
+- Child, Adolescent, and Adult ADHD Diagnosis & Treatment
 - Psychiatric Genetics
 - Cognitive Genomics
 - Neurodevelopment
@@ -64,8 +66,8 @@ execute:
 - Systematic Reviews
 - Clinical Guidelines Development
 - Neuropsychological Assessment
-- Data Science (Reproducible Research)
-- Language Learning Models (LLM)
+- Data Science
+- Language Learning Models (LLMs)
 :::
 ::::
 
@@ -124,15 +126,75 @@ execute:
 :::
 ::::
 
-## AHRQ ADHD Review Project (75Q80120D00009)
+## AHRQ Adult ADHD Review Project (75Q80120D00009)
 ### Co-funded by the FDA
-::: {.incremental}
-- Update to 2018 AHRQ review
+
 - Focus on diagnosis and treatment
-- Children and adolescents
 - Evidence-based guidelines
 - Treatment recommendations
+- Child & adolescent ADHD project completed last year
+
+## CAR-T Cell Therapy & Neurotoxicity
+### R01 Collaboration with CHLA
+
+### Project Overview {background-color="#40666e"}
+
+:::: {.columns}
+::: {.column width="60%"}
+**ICANS Research Study:**
+
+- Investigating neurotoxicity in CAR-T therapy
+- 80 pediatric ALL patients (5-21 years)
+- Longitudinal assessment design
+- Multi-modal brain & immune measures
 :::
+
+::: {.column width="40%"}
+![](icans.png)
+:::
+::::
+
+## Hippocampal Stimulation & Memory
+### Predicting Surgical Outcomes
+
+- PI: Brian Lee, MD, PhD
+
+#### Study Overview
+
+Three key questions:
+
+1. WHERE to stimulate in hippocampus?
+2. WHEN during memory tasks?
+3. HOW (stimulation parameters)?
+
+
+
+## Data Science
+
+- R
+- Quarto, Typst 
+- Reproducible Research
+
+### GitHub Repos
+
+- https://github.com/brainworkup/neurotyp-adult
+- https://github.com/brainworkup/neurotyp-pediatric
+- https://github.com/brainworkup/neurotyp-forensic
+- https://github.com/brainworkup/bwu
+
+## Large-Scale Biobank Data
+
+- UK Biobank
+- ABCD Study
+- 23andMe
+- Many others
+
+## Language Learning Models (LLM)
+### Application to Neuropsychological Evaluation
+
+Developing LLM to process neurocognitive and behavioral data from evaluations that otherwise take several hours.
+
+- Summarization using Chain of Density
 
 ## Integration & Clinical Impact {background-color="#40666e"}
 
@@ -164,3 +226,5 @@ How these projects work together:
 - Outcome prediction
 :::
 ::::
+
+# Thank you!! 
