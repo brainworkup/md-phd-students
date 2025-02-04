@@ -1,30 +1,30 @@
 [
   {
-    "objectID": "index.html#example-slide",
-    "href": "index.html#example-slide",
+    "objectID": "index.html#overview",
+    "href": "index.html#overview",
     "title": "Presentation to MD/PhD Students",
-    "section": "Example slide",
-    "text": "Example slide\nThis is a subtitle\nHere we have some text that may run over several lines of the slide frame, depending on how long it is.\n\nfirst item\n\nA sub item\n\n\nNext, we’ll brief review some theme-specific components.\n\nNote that all of the standard Reveal.js features can be used with this theme, even if we don’t highlight them here."
+    "section": "Overview",
+    "text": "Overview\nCurrent Research\nFuture Research"
   },
   {
-    "objectID": "index.html#additional-theme-classes",
-    "href": "index.html#additional-theme-classes",
+    "objectID": "index.html#gwas-of-working-memory",
+    "href": "index.html#gwas-of-working-memory",
     "title": "Presentation to MD/PhD Students",
-    "section": "Additional theme classes",
-    "text": "Additional theme classes\nSome extra things you can do with the clean theme\nSpecial classes for emphasis\n\n.alert class for default emphasis, e.g. important note.\n.fg class for custom colour, e.g. important note.\n.bg class for custom background, e.g. important note.\n\nCross-references\n\n.button class provides a Beamer-like button, e.g. Summary"
+    "section": "GWAS of Working Memory",
+    "text": "GWAS of Working Memory\nSome extra things you can do with the clean theme\nSpecial classes for emphasis\n\n.alert class for default emphasis, e.g. important note.\n.fg class for custom colour, e.g. important note.\n.bg class for custom background, e.g. important note.\n\nCross-references\n\n.button class provides a Beamer-like button, e.g. Summary"
   },
   {
-    "objectID": "index.html#want-more",
-    "href": "index.html#want-more",
+    "objectID": "index.html#neurosurgeryseeg-collaborations",
+    "href": "index.html#neurosurgeryseeg-collaborations",
     "title": "Presentation to MD/PhD Students",
-    "section": "Want more?",
-    "text": "Want more?\nSee our longer demo slides\nWe’ve deliberarely kept this template lean, to get you up and running as fast as possible.\nWe provide a separate demo template, with more examples for integrating code, tables, figures, etc.\n\nSee the live demo slides here."
+    "section": "Neurosurgery/SEEG Collaborations",
+    "text": "Neurosurgery/SEEG Collaborations\nSee our longer demo slides"
   },
   {
-    "objectID": "index.html#sec-summary",
-    "href": "index.html#sec-summary",
+    "objectID": "index.html#summary",
+    "href": "index.html#summary",
     "title": "Presentation to MD/PhD Students",
     "section": "Summary",
-    "text": "Summary\nA minimalist and elegant presentation theme\nThe Quarto reveal.js clean theme aims to be a minimalist and elegant presention theme. Here are some options to get you started:\nAdd the theme to an existing project.\nquarto install extension grantmcdermott/quarto-revealjs-clean\n… or, create a new project using this slide deck as a lean template.\nquarto use template grantmcdermott/quarto-revealjs-clean\n… or, create a new project using the demo slide deck as a full template.\nquarto use template grantmcdermott/quarto-revealjs-clean-demo"
+    "text": "Summary\nA minimalist and elegant presentation theme"
   }
 ]
