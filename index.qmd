@@ -170,17 +170,17 @@ Three key questions:
 
 
 ## Data Science
+### Focus on reproducible research
 
-- R
+- R, some Python
 - Quarto, Typst 
-- Reproducible Research
 
 ### GitHub Repos
 
-- https://github.com/brainworkup/neurotyp-adult
-- https://github.com/brainworkup/neurotyp-pediatric
-- https://github.com/brainworkup/neurotyp-forensic
-- https://github.com/brainworkup/bwu
+- [Adult templates for neuropsych](https://github.com/brainworkup/neurotyp-adult)
+- [Adult templates for neuropsych](https://github.com/brainworkup/neurotyp-pediatric)
+- [Adult templates for neuropsych](https://github.com/brainworkup/)neurotyp-forensic
+- [Neuropsych reports](https://github.com/brainworkup/bwu)
 
 ## Large-Scale Biobank Data
 
