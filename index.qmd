@@ -12,6 +12,7 @@ date: last-modified
 date-format: long
 location: USC Keck School of Medicine
 format:
+  typst: default
   pptx:
     incremental: true
   clean-revealjs:
