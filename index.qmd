@@ -1,16 +1,47 @@
 ---
-title: Research Program in Psychiatry
-subtitle: Subtitle here
-format: clean-revealjs
-html-math-method:
-  method: mathjax
-  url: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+title: "Presentation to MD/PhD Students"
+subtitle: "Research Program in Psychiatry"
 author:
-  - name: Joey Trampush, Ph.D.
-    orcid: 0000-0000-0000-0000
-    email: joey.trampush@med.usc
-    affiliations: Department of Psychiatry and the Behavioral Sciences
+  - name: Joey W. Trampush, Ph.D.
+    orcid: 0000-0003-0830-508X
+    email: Assistant Professor of Psychiatry and the Behavioral Sciences
+    affiliations: 
+      - Department of Psychiatry and the Behavioral Sciences
+      - USC Keck School of Medicine
 date: last-modified
+date-format: long
+location: USC Keck School of Medicine
+format:
+  # pptx:
+  #   incremental: true
+  clean-revealjs:
+    transition: "none"
+    logo: logo_ksom.jpg #logo_usc_ksom_black.jpg
+    footer: <https://brainworkup./github.io/md-phd-students/>
+    preview-links: auto
+    standalone: true
+    embed-resources: true
+    width: 1600
+    height: 900
+    incremental: false
+    slide-number: true
+    show-slide-number: speaker
+    fig-cap-location: top
+    fig-format: svg
+    pdf-separate-fragments: false
+    fig-align: center
+    overview: true
+    menu: true    
+    progress: true
+    # chalkboard: 
+    #   buttons: false
+    css: styles.scss
+execute:
+    echo: false
+    warning: false
+    message: false
+    cache: false
+    freeze: auto
 ---
 
 ## Example slide
