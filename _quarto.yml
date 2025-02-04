@@ -1,17 +1,5 @@
 project:
   type: website
   output-dir: docs
-
-website:
-  title: "Presentation to MD/PhD Students"
-  navbar:
-    left:
-      - href: index.qmd
-
-format:
-  html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
-    toc: true
+  render:
+    - index.qmd
