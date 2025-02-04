@@ -46,7 +46,7 @@
     "href": "index.html#data-science",
     "title": "Research Portfolio",
     "section": "Data Science",
-    "text": "Data Science\nFocus on reproducible research\n\nR, some Python\nQuarto, Typst\n\nGitHub Repos\n\nAdult templates for neuropsych\nAdult templates for neuropsych\nAdult templates for neuropsychneurotyp-forensic\nNeuropsych reports"
+    "text": "Data Science\nFocus on reproducible research\n\nR, some Python\nQuarto, Typst\n\nGitHub Repos for Neuropsychology\n\nAdult templates\nPeds templates\nForensic templatesneurotyp-forensic\nNeuropsych data and reports"
   },
   {
     "objectID": "index.html#large-scale-biobank-data",
@@ -60,14 +60,7 @@
     "href": "index.html#language-learning-models-llm",
     "title": "Research Portfolio",
     "section": "Language Learning Models (LLM)",
-    "text": "Language Learning Models (LLM)\nApplication to Neuropsychological Evaluation\nDeveloping LLM to process neurocognitive and behavioral data from evaluations that otherwise take several hours.\n\nSummarization using Chain of Density"
-  },
-  {
-    "objectID": "index.html#integration-clinical-impact",
-    "href": "index.html#integration-clinical-impact",
-    "title": "Research Portfolio",
-    "section": "Integration & Clinical Impact",
-    "text": "Integration & Clinical Impact\nHow these projects work together:\n\nGenetic architecture → Treatment targets\nEarly development → Prevention strategies\nClinical guidelines → Evidence-based care\nTranslational potential → Improved outcomes"
+    "text": "Language Learning Models (LLM)\nApplication to Neuropsychological Evaluation\nDeveloping LLM to process neurocognitive and behavioral data from evaluations that otherwise take several hours.\n\nLocal RAG models\nSummarization using Chain of Density"
   },
   {
     "objectID": "index.html#future-directions",

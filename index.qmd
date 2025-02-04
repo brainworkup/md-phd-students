@@ -176,12 +176,12 @@ Three key questions:
 - R, some Python
 - Quarto, Typst 
 
-### GitHub Repos
+### GitHub Repos for Neuropsychology
 
-- [Adult templates for neuropsych](https://github.com/brainworkup/neurotyp-adult)
-- [Adult templates for neuropsych](https://github.com/brainworkup/neurotyp-pediatric)
-- [Adult templates for neuropsych](https://github.com/brainworkup/)neurotyp-forensic
-- [Neuropsych reports](https://github.com/brainworkup/bwu)
+- [Adult templates](https://github.com/brainworkup/neurotyp-adult)
+- [Peds templates](https://github.com/brainworkup/neurotyp-pediatric)
+- [Forensic templates](https://github.com/brainworkup/)neurotyp-forensic
+- [Neuropsych data and reports](https://github.com/brainworkup/bwu)
 
 ## Large-Scale Biobank Data
 
@@ -195,16 +195,17 @@ Three key questions:
 
 Developing LLM to process neurocognitive and behavioral data from evaluations that otherwise take several hours.
 
+- Local RAG models
 - Summarization using Chain of Density
 
-## Integration & Clinical Impact {background-color="#40666e"}
+<!-- ## Integration & Clinical Impact {background-color="#40666e"}
 
 How these projects work together:
 
 1. Genetic architecture → Treatment targets
 2. Early development → Prevention strategies
 3. Clinical guidelines → Evidence-based care
-4. Translational potential → Improved outcomes
+4. Translational potential → Improved outcomes -->
 
 ## Future Directions
 
