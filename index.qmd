@@ -97,8 +97,6 @@ execute:
 - Treatment recommendations
 - Child & adolescent ADHD project completed last year
 
-
-
 ## Early Development & Brain Function (R01 DK110793)
 ### Collaboration with CHLA
 :::: {.columns}
@@ -144,8 +142,6 @@ Three key questions:
 1. WHERE to stimulate in hippocampus?
 2. WHEN during memory tasks?
 3. HOW (stimulation parameters)?
-
-
 
 ## Data Science
 ### Focus on reproducible research
