@@ -12,8 +12,8 @@ date: last-modified
 date-format: long
 location: USC Keck School of Medicine
 format:
-  # pptx:
-  #   incremental: true
+  pptx:
+    incremental: true
   clean-revealjs:
     transition: "none"
     logo: logo_ksom.jpg #logo_usc_ksom_black.jpg
