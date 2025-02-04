@@ -4,7 +4,7 @@
     "href": "index.html#overview",
     "title": "Presentation to MD/PhD Students",
     "section": "Overview",
-    "text": "Overview\nCurrent Research\nFuture Research"
+    "text": "Overview"
   },
   {
     "objectID": "index.html#gwas-of-working-memory",
@@ -21,10 +21,17 @@
     "text": "Neurosurgery/SEEG Collaborations\nSee our longer demo slides"
   },
   {
-    "objectID": "index.html#summary",
-    "href": "index.html#summary",
+    "objectID": "index.html#worldwide-biobank-data",
+    "href": "index.html#worldwide-biobank-data",
     "title": "Presentation to MD/PhD Students",
-    "section": "Summary",
-    "text": "Summary\nA minimalist and elegant presentation theme"
+    "section": "Worldwide Biobank Data",
+    "text": "Worldwide Biobank Data"
+  },
+  {
+    "objectID": "index.html#other-public-datasets",
+    "href": "index.html#other-public-datasets",
+    "title": "Presentation to MD/PhD Students",
+    "section": "Other Public Datasets",
+    "text": "Other Public Datasets\n\nABCD study"
   }
 ]

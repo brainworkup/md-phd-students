@@ -35,7 +35,7 @@ format:
     progress: true
     # chalkboard: 
     #   buttons: false
-    css: styles.scss
+    # css: styles.scss
 execute:
     echo: false
     warning: false
@@ -46,11 +46,7 @@ execute:
 
 ## Overview
 
-### Current Research
-
-### Future Research
-
-
+# Current Research
 
 ## GWAS of Working Memory
 
@@ -71,6 +67,11 @@ Cross-references
 
 ### See our longer demo slides
 
-## Summary
+# Future Research
 
-### A minimalist and elegant presentation theme
+## Worldwide Biobank Data
+
+## Other Public Datasets
+
+- ABCD study
+- 
