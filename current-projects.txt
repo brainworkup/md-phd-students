@@ -1,0 +1,101 @@
+---
+title: "Current Research Projects"
+format: revealjs
+---
+
+## RDoC Cognitive Systems GWAS (R03 MH123787)
+
+:::: {.columns}
+::: {.column width="60%"}
+**Project Goals:**
+
+- Investigate latent molecular genetic architecture of working memory
+- Use existing COGENT consortium data
+- Identify genome-wide allelic variation
+- Focus on causal, not just correlational relationships
+:::
+
+::: {.column width="40%"}
+![](images/placeholder.png)
+:::
+::::
+
+## Working Memory as RDoC Construct {background-color="#40666e"}
+
+::: {.incremental}
+- Core RDoC Cognitive Systems Domain
+- Active maintenance of goal-relevant info
+- Resists interference
+- Limited capacity system
+- Highly heritable trait
+:::
+
+## Project Innovation
+
+1. Large-scale dataset (COGENT)
+2. Novel analytical methods
+3. Focus on causality
+4. Pathway to treatments
+5. Transdiagnostic implications
+
+## Early Development & Brain Function (R01 DK110793)
+
+:::: {.columns}
+::: {.column width="60%"}
+**Research Focus:**
+
+- Impact of early feeding practices
+- Human milk oligosaccharides (HMOs)
+- Effects on obesity development
+- Brain development trajectories
+:::
+
+::: {.column width="40%"}
+- Longitudinal design
+- Multi-modal assessment
+- Developmental outcomes
+- Clinical implications
+:::
+::::
+
+## AHRQ ADHD Review Project (75Q80120D00009)
+
+::: {.incremental}
+- Update to 2018 AHRQ review
+- Focus on diagnosis and treatment
+- Children and adolescents
+- Evidence-based guidelines
+- Treatment recommendations
+:::
+
+## Integration & Clinical Impact {background-color="#40666e"}
+
+How these projects work together:
+
+1. Genetic architecture → Treatment targets
+2. Early development → Prevention strategies
+3. Clinical guidelines → Evidence-based care
+4. Translational potential → Improved outcomes
+
+## Future Directions
+
+:::: {.columns}
+::: {.column width="50%"}
+**Research Goals:**
+
+- Expand genetic findings
+- Identify biomarkers
+- Develop interventions
+- Improve diagnostics
+:::
+
+::: {.column width="50%"}
+**Clinical Applications:**
+
+- Personalized medicine
+- Early intervention
+- Treatment optimization
+- Outcome prediction
+:::
+::::
+
