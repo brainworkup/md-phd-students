@@ -229,3 +229,6 @@ How these projects work together:
 ::::
 
 # Thank you!! 
+
+- [joey.trampush@med.usc](mailto:joey.trampush@med.usc)
+- [trampush@usc](mailto:trampush@usc)
